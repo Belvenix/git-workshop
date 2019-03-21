@@ -34,4 +34,4 @@ while True:
         print("My sources say no")
     
     elif answers == 9:
-        print("My anwers are real!")
+        print("My anwers are rea")
